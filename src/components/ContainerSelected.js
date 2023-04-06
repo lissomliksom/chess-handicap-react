@@ -9,7 +9,7 @@ const ContainerSelected = ({ options, setOptions, selected, setSelected }) => {
   };
 
   return (
-    <section>
+    <section class="px-2">
       <div className="flex items-baseline justify-between">
         <h2 className="mb-3 text-lg font-medium">Active handicaps</h2>
       </div>

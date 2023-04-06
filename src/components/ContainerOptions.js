@@ -28,7 +28,7 @@ const ContainerOptions = ({ options, setOptions, selected, setSelected, showModa
   };
 
   return (
-    <section>
+    <section class="px-2">
       <div className="flex items-baseline justify-between">
         <h2 className="mb-3 text-lg font-medium">Options</h2>
         <div className="flex space-x-3">
